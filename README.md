@@ -12,24 +12,6 @@ Project features：
 6. Customize Label Style
 
 Project Structure：
-
-src/
-└── main/
-    └── java/
-        └── editor/
-            ├── canvas/
-            │   └── CanvasPanel.java         
-            ├── controller/
-            │   └── EditorController.java    
-            ├── model/
-            │   ├── GraphicalObject.java     
-            │   ├── RectObject.java          
-            │   ├── OvalObject.java          
-            │   ├── CompositeObject.java     
-            │   ├── Link.java                
-            │   └── LinkType.java            
-            ├── ui/
-            │   ├── MainFrame.java           
-            │   └── LabelDialog.java         
-            └── Main.java                    
+![image](https://github.com/user-attachments/assets/02b0a110-8fb2-4e1e-b476-c9c17fc8e44b)
+             
 
